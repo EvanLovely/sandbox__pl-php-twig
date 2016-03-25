@@ -1,6 +1,6 @@
 {
-	"name":             "pattern-lab/edition-twig-standard",
-	"description":      "Standard Edition of Pattern Lab for Twig. Installs all Twig-related assets except for a StarterKit.",
+	"name":             "sandbox__pl-php-twig",
+	"description":      "Sandbox for the Standard Edition of Pattern Lab for Twig. Installs all Twig-related assets except for a StarterKit.",
 	"keywords":         ["pattern lab"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",

@@ -1,3 +1,43 @@
+# Pattern Lab PHP Twig Sandbox
+
+**A test sandbox for what a Pattern Lab PHP Twig Site would work like.**
+
+## Installation
+
+	composer install
+
+## Commands
+
+### Compile
+
+	php core/console --generate
+
+### Server
+
+	php core/console --server
+
+## Caveats
+
+- Watch [doesn't work](https://twitter.com/dmolsen/status/713157843264868352)
+- StaterKits are really thin
+- Lots of open issues and PRs on the [core GitHub repos](https://github.com/pattern-lab)
+
+## Documentation
+
+- Best PL PHP Twig [Docs](https://github.com/pattern-lab/patternengine-php-twig)
+- [Twig PHP Docs](http://twig.sensiolabs.org/documentation)
+- [Pattern Lab General Docs](http://patternlab.io/docs)
+
+--- 
+
+# Original Readme Below
+
+Command Ran [from here](https://github.com/pattern-lab/edition-php-twig-standard) to Scaffold:
+
+		composer create-project pattern-lab/edition-twig-standard your-project-name && cd $_
+
+---
+
 # Pattern Lab Standard Edition for Twig [DEVELOPER PREVIEW]
 
 The Standard Edition for Twig gives developers and designers a clean and stable base from which to develop a Twig-based pattern library.
