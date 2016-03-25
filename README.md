@@ -2,6 +2,8 @@
 
 **A test sandbox for what a Pattern Lab PHP Twig Site would work like.**
 
+From the [Pattern Lab PHP Twig Standard Edition](https://github.com/pattern-lab/edition-php-twig-standard)
+
 ## Installation
 
 	composer install
