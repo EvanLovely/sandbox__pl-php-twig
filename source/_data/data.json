@@ -1,5 +1,6 @@
 {
 	"title" : "Pattern Lab",
+	"text": "Text from Global",
 	"htmlClass": "pl",
 	"bodyClass": "body",
 	"img": {
